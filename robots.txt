@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://gokulkumar_v.com/sitemap-index.xml
+Host: https://gokulkumar_v.com
