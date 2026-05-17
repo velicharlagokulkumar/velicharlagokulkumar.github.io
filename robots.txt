@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://velicharlagokulkumar.github.io/sitemap/sitemap-index.xml
+Host: https://velicharlagokulkumar.github.io
